@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Windows 10\Desktop\SEMESTRE_III\PROGRAMACION\SEGUNDO PARCIAL\segundo_parcial\segundo_parcial\Carnet.h(109,7): warning C4101: 'ac': variable local sin referencia
+C:\Users\Windows 10\Desktop\SEMESTRE_III\PROGRAMACION\SEGUNDO PARCIAL\segundo_parcial\segundo_parcial\Carnet.h(137,7): warning C4101: 'ac': variable local sin referencia
+C:\Users\Windows 10\Desktop\SEMESTRE_III\PROGRAMACION\SEGUNDO PARCIAL\segundo_parcial\segundo_parcial\main.cpp(55,31): warning C4353: se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+  Generando código
+  1 of 164 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  segundo_parcial.vcxproj -> C:\Users\Windows 10\Desktop\SEMESTRE_III\PROGRAMACION\SEGUNDO PARCIAL\segundo_parcial\x64\Release\segundo_parcial.exe
